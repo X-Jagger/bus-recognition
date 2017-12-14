@@ -1,0 +1,19 @@
+#### 1.win10下Ubuntu16.04LTS安装
+
+链接1为主，2为辅
+https://wklchris.github.io/Win10-Ubuntu-dual-os.html
+http://blog.csdn.net/fesdgasdgasdg/article/details/54183577
+
+#### 2.Nvida显卡驱动安装和分辨率解决
+
+http://www.cnblogs.com/YiXiaoZhou/p/6389566.html
+- 手动下载官网驱动
+- 禁止开源驱动，字符终端安装 -no-opengl-files 关闭图像界面
+- 分辨率手动设置修改http://m.blog.csdn.net/zouroot/article/details/55806971
+
+#### 3.sougou输入法安装
+
+http://blog.csdn.net/ljheee/article/details/52966456
+
+#### 4.翻墙解决
+github.com搜索lantern，搞定可以翻墙之后下载chrome，自己的SSR,配置好即可
